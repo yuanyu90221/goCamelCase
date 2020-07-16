@@ -15,3 +15,8 @@ oneTwoThree ->  3
 use regularExpress split to find out the split len
 
 
+## how to use camel.in pipe
+
+```golang
+go run main.go < camel.in > camel.out
+```
