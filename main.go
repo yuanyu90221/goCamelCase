@@ -7,7 +7,7 @@ import (
 
 func main() {
 	var s string
-	fmt.Scanf("%s", &s)
+	fmt.Scanf("%s\n", &s)
 	fmt.Printf("%d\n", camelCaseSol(s))
 }
 
